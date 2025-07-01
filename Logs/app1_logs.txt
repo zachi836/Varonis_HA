@@ -1,0 +1,8 @@
+[2025-06-30T23:22:18.361254] INFO: 87.71.216.34 GET /RestaurantsRecommendation style=American, vegetarian=, is_open_now= 
+[2025-06-30T23:22:18.376807] INFO: application successfully called
+[2025-06-30T23:22:19.834945] INFO: 87.71.216.34 GET /RestaurantsRecommendation style=American, vegetarian=, is_open_now= 
+[2025-06-30T23:22:19.866255] INFO: application successfully called
+[2025-06-30T23:22:22.493642] INFO: 87.71.216.34 GET /RestaurantsRecommendation style=American, vegetarian=, is_open_now= 
+[2025-06-30T23:22:22.524813] INFO: application successfully called
+[2025-06-30T23:23:10.143092] INFO: 127.0.0.1 GET /RestaurantsRecommendation style=Thai, vegetarian=true, is_open_now=true 
+[2025-06-30T23:23:10.249022] INFO: application successfully called
