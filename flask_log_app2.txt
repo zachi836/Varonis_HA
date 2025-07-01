@@ -1,0 +1,22 @@
+Trying to run c:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\\Users\\zachi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe
+Flask process started
+Trying to run c:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\\Users\\zachi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe
+Flask process started
+Trying to run C:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\\Users\\zachi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe
+Flask process started
+Trying to run C:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\\Users\\zachi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe
+Flask process started
+Traceback (most recent call last):
+  File "C:\Work Search\Python\Flask\FlaskServiceProject\app2.py", line 7, in <module>
+    from FlaskServiceProject import Parameters
+ModuleNotFoundError: No module named 'FlaskServiceProject'
+Trying to run C:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\\Users\\zachi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe
+Flask process started
+Trying to run C:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\Users\zachi\AppData\Local\Programs\Python\Python312\python.exe
+Flask process started
+Trying to run C:\Work Search\Python\Flask\FlaskServiceProject\app2.py with C:\Users\zachi\AppData\Local\Programs\Python\Python312\python.exe
+Flask process started
+Trying to run c:\FlaskServiceProject\app2.py with C:\Program Files\Python312\python.exe
+Flask process started
+Trying to run c:\FlaskServiceProject\app2.py with C:\Program Files\Python312\python.exe
+Flask process started
