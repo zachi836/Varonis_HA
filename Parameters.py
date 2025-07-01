@@ -1,0 +1,5 @@
+tenant_id = "63fd6906-d22b-4670-88f1-890cd7fc160d"
+client_id = "98c8ed4b-d81f-4921-bdbe-2ce2b722371d"
+pem_cert_path = "C:\\FlaskServiceProject\\Utils\\zachivaronishasaapp1.pem"
+logs_path = "C:\\FlaskServiceProject\\Logs\\app1_logs.txt"
+python_path = "C:\\Program Files\\Python312\\python.exe"
